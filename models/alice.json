@@ -4,7 +4,7 @@
   "author": "Your Name",
   "trained_languages": ["en"],
   "version": 2,
-  "model": "http://192.168.0.22:8123/local/alice.tflite",
+  "model": "./Alice.tflite",
   "tensor_arena_size": 22860,
   "micro": {
     "probability_cutoff": 0.5,
